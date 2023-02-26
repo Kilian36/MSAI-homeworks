@@ -11,3 +11,4 @@ The main topics explored are:
 
 Sadly this verison of the notebooks in not commented, but The comments file contain a detailed explaination of the contents.
 
+In order to run correctly some of the notebooks you're supposed to download the MNIST dataset and to put it into the same folder. https://www.kaggle.com/datasets/oddrationale/mnist-in-csv.
